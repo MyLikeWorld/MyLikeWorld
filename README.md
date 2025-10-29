@@ -11,6 +11,8 @@ That’s why I’m excited to dive into the world of **web development** — it�
 🌱 I’m currently learning **HTML, CSS, JavaScript** 
 🧪 Learning website testing and manual QA basics.
 💻 Here I’ll share my learning journey and projects.
+### 🌐 Visit my website  
+[![Visit My Website](https://img.shields.io/badge/MyLikeWorld.web.app-%23ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://MyLikeWorld.web.app)
 
 ---
 
@@ -22,7 +24,7 @@ That’s why I’m excited to dive into the world of **web development** — it�
 🌱 Зараз вивчаю **HTML, CSS, JavaScript**  
 🧪 Також навчаюся тестуванню сайтів — перевіряю зручність, якість і стабільність роботи
 💻 Тут я ділитимуся своїм шляхом навчання та проєктами.
-
+[![Visit My Website](https://img.shields.io/badge/MyLikeWorld.web.app-%23ffb6c1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://MyLikeWorld.web.app)
 ---
 
 ✨ _Thank you for visiting my profile!_  
