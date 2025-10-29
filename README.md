@@ -1,6 +1,6 @@
 # Hi, I’m Svitlana 👋  
 ### Привіт, я Світлана 🌼
-
+📫 How to reach me: mylikeworld.contact@gmail.com
 ---
 
 ## 🇬🇧 About me
